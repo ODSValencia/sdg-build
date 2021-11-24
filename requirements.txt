@@ -1,0 +1,5 @@
+pyyaml
+pandas
+gitpython
+git+git://github.com/dougmet/yamlmd
+
